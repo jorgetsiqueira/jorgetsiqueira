@@ -1,6 +1,6 @@
 # Jorge Targino Siqueira
 
-Spring Boot | MySQL | MongoDB | JDBC | Spring MVC | JPA | Hibernate | JUnit 🖥 📚
+
 
 
 📌 Apaixonado por tecnologia desde sempre! 
