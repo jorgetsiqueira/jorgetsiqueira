@@ -1,16 +1,15 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **jorgetsiqueira/jorgetsiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Jorge Siqueira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Java | Spring Boot | MySQL | MongoDB | JDBC | Spring MVC | JPA | Hibernate | JUnit 🖥 📚
+
+
+📌 Apaixonado por tecnologia desde sempre! Estou em busca de constante aprendizado, construindo sólidos conhecimentos a cada novo dia. Aberto a novos desafios e em busca sempre de novas habilidades.
+
+
+
+
