@@ -3,7 +3,7 @@
 
 
 
-📌 Apaixonado por tecnologia desde sempre! 
+📌 Apaixonado por tecnologia desde sempre!   💻 📲
 
 
 Estou em busca de constante aprendizado, construindo sólidos conhecimentos a cada novo dia. 
