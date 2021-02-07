@@ -19,7 +19,7 @@ Tenho como principais habilidades técnicas:
 📌 MySQL e MongoDB
 📌 Docker
 📌 Metodologias Agéis
-📌 Teste em Java - JUnit, Mockito
+📌 Teste - JUnit, Mockito
 
 Tenho como principais habilidades pessoais e comportamentais:
 
@@ -28,8 +28,8 @@ Tenho como principais habilidades pessoais e comportamentais:
 📌 Orientação para Resultados
 📌 Trabalho em Equipe
 📌 Capacidade Analítica
-📌 Facilidade de Aprendizado
 📌 Resiliência
+📌 Facilidade de Aprendizado
 
 
 
