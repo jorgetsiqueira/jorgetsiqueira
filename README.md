@@ -24,11 +24,11 @@ Tenho como principais habilidades técnicas:
 Tenho como principais habilidades pessoais e comportamentais:
 
 📌 Comunicação Interpessoal
-📌 Organização
 📌 Orientação para Resultados
 📌 Trabalho em Equipe
 📌 Capacidade Analítica
-📌 Resiliência  
+📌 Resiliência
+📌 Organização
 📌 Facilidade de Aprendizado
 
 
