@@ -28,7 +28,7 @@ Tenho como principais habilidades pessoais e comportamentais:
 📌 Orientação para Resultados
 📌 Trabalho em Equipe
 📌 Capacidade Analítica
-📌 Resiliência
+📌 Resiliência  
 📌 Facilidade de Aprendizado
 
 
