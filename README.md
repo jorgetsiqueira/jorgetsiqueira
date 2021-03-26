@@ -5,33 +5,13 @@
 
 Seja bem vindo(a)! 👏✌️
 
-📌 Sou apaixonado por tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto a novos desafios e em busca sempre de novas habilidades.
+📌 Sou apaixonado por Tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.
 
-📌 Minha primeira paixão pela tecnologia, foi na área de Redes de Computadores, onde aprendi e consegui me desenvolver como profissional com diversos anos de experiência como Técnico e Analista de Suporte.
+📌 Minha primeira paixão pela Tecnologia, surgiu na área de Redes de Computadores, com formação técnica, onde me desenvolvi como profissional, com diversos anos de experiência como Técnico e Analista de Suporte, com participação em Projetos de Infraestrutura de Redes, Telecomunicações, Redes FTTH, Telefonia e VOIP | SIP em diversos ambientes e sistemas.
 
-📌 A paixão pelo Desenvolvimento de Sistemas surgiu com a curiosidade de entender como tudo funciona, o DNA das coisas, por a mão na massa, criar e participar da inovação tecnológica. Além da faculdade, realizo constantemente cursos de extensão e aperfeiçoamento na área de desenvolvimento de software, pois acredito serem primordiais para a atualização e crescimento profissional.
+📌 A paixão pelo Desenvolvimento de Sistemas, surgiu com a vontade e curiosidade de entender como tudo funciona, o DNA das tecnologias! Criar e participar da inovação tecnológica em constante expansão.
 
-Tenho como principais habilidades técnicas:
-
-📌 Java 11+
-📌 Spring Boot
-📌 Microserviços
-📌 MySQL e MongoDB
-📌 Docker
-📌 Metodologias Agéis
-📌 Teste - JUnit, Mockito
-
-Tenho como principais habilidades pessoais e comportamentais:
-
-📌 Comunicação Interpessoal
-📌 Orientação para Resultados
-📌 Trabalho em Equipe
-📌 Capacidade Analítica
-📌 Resiliência
-
-📌 Organização
-📌 Facilidade de Aprendizado
-
+📌 Além da faculdade, realizo constantemente cursos de extensão e aperfeiçoamento na área de Gestão de TI, Redes, Infraestrutura e Desenvolvimento de Softwares, pois acredito serem primordiais para a atualização e crescimento profissional.
 
 
 
