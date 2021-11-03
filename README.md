@@ -7,6 +7,12 @@ Seja bem vindo(a)!
 
 Sou apaixonado por Tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.
 
+💻 Computadores e Tecnologia
+🐧 GNU/Linux e Shell Script
+🐍 Python
+🤖 Robotics
+🎮 Video Games
+
 
 Contatos
 
