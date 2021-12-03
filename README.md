@@ -9,12 +9,6 @@ Sou apaixonado por Tecnologia, estou sempre em busca de constante aprendizado e 
 
 
 
-Linux 🐧
-AWS 💻
-Video Games 🎮
-Python 🐍
-Docker 📦
-Kubernetes ☸️
 
 
 Contatos
