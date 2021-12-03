@@ -7,11 +7,14 @@ Seja bem vindo(a)!
 
 Sou apaixonado por Tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.
 
-💻 Computadores e Tecnologia
-🐧 GNU/Linux
-🐍 Python
-🤖 Robotics
-🎮 Video Games
+
+
+Linux 🐧
+AWS 💻
+Video Games 🎮
+Python 🐍
+Docker 📦
+Kubernetes ![image](https://user-images.githubusercontent.com/76107817/144664547-a3b89d67-7492-4d6f-a103-e0d8eda67472.png)
 
 
 Contatos
