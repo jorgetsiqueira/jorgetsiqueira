@@ -14,7 +14,7 @@ AWS 💻
 Video Games 🎮
 Python 🐍
 Docker 📦
-Kubernetes ![image](https://user-images.githubusercontent.com/76107817/144664547-a3b89d67-7492-4d6f-a103-e0d8eda67472.png)
+Kubernetes ☸️
 
 
 Contatos
