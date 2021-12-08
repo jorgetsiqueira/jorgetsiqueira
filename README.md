@@ -7,7 +7,6 @@ Seja bem vindo(a)!<br />
 Analista de Sistemas Ágil, Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
 <br />
 <br />
-<br />
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
