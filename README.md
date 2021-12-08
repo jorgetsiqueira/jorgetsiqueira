@@ -2,6 +2,9 @@
 
 
 Olá 👋!
+Seja bem vindo(a)!<br />
+
+<br />
 
 Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
 
