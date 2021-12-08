@@ -9,15 +9,15 @@ Sou apaixonado por Tecnologia, estou sempre em busca de constante aprendizado e 
 
 
 
-Linux
-AWS | Azure
-Python | Shell Script
-Docker
-Kubernetes
-Git
-CI/CD
-Infraestrutura
-Nginx | Apache
+Linux<br />
+AWS | Azure<br />
+Python | Shell Script<br />
+Docker<br />
+Kubernetes<br />
+Git<br />
+CI/CD<br />
+Infraestrutura<br />
+Nginx | Apache<br />
 
 
 
