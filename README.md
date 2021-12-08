@@ -4,12 +4,9 @@ Olá 👋!
 Seja bem vindo(a)!<br />
 
 <br />
-Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
-<br />
-Analista de Sistemas Ágil, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.<br />
+Analista de Sistemas Ágil, Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
 
 
-<br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
