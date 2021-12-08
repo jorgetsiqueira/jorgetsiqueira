@@ -5,10 +5,9 @@ Olá 👋!
 Seja bem vindo(a)!<br />
 
 <br />
-
 Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
 
-Analista de Sistemas Ágil,sou apaixonado por tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.
+Analista de Sistemas Ágil, sou apaixonado por tecnologia, estou sempre em busca de constante aprendizado e aperfeiçoamento, construindo sólidos conhecimentos a cada novo dia. Aberto sempre a novos desafios e em busca sempre de novas habilidades.
 
 
 
