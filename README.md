@@ -5,9 +5,9 @@ Seja bem vindo(a)!<br />
 
 <br />
 Analista de Sistemas Ágil, Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
-
-
 <br />
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br />
