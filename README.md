@@ -4,7 +4,7 @@ Olá 👋!
 Seja bem vindo(a)!<br />
 
 <br />
-Analista de Sistemas Ágil, Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
+Analista de Sistemas, Entusiasta de Tecnologias e Amante do Linux🐧💻<br />
 <br />
 <br />
 
