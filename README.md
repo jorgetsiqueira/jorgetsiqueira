@@ -5,7 +5,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 <br />
 <br />
 
-## Habilidades
+# Habilidades
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
@@ -22,7 +22,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 
 <br />
 
-## Redes Sociais
+# Redes Sociais
 <!-- Badges -->  
 <p></p><br>
 <h3></h3>
