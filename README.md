@@ -1,7 +1,7 @@
 # Jorge Targino Siqueira
 
 <br />
-Analista de Sistemas, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
+Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
 <br />
 <br />
 
@@ -19,18 +19,12 @@ Analista de Sistemas, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br />
 
 
+<!-- Badges -->  
+<p></p><br>
+<h3></h3>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/jorgetsiqueira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br />
-
-##
-
-<!-- Contribuições -->  
-<p></p><br>
-<h3>Minhas contribuições:</h3>
-<div align="center">
-
-  ![Snake animation](https://github.com/jorgetsiqueira/jorgetsiqueira/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
