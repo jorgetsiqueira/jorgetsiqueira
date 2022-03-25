@@ -21,8 +21,6 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br />
 
 ## Redes Sociais
-<br />
-
 <!-- Badges -->  
 <p></p><br>
 <h3></h3>
