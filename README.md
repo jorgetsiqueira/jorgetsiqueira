@@ -22,6 +22,15 @@ Analista de Sistemas, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
 
 <br />
 
+##
 
+<!-- Contribuições -->  
+<p></p><br>
+<h3>Minhas contribuições:</h3>
+<div align="center">
+
+  ![Snake animation](https://github.com/jorgetsiqueira/jorgetsiqueira/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
