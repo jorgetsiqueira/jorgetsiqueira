@@ -3,7 +3,6 @@
 <br />
 Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
 <br />
-<br />
 
 ### Habilidades
 <br />
