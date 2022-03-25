@@ -7,7 +7,6 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 
 ### Habilidades
 <br />
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br />
@@ -25,8 +24,6 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 
 ### Redes Sociais
 <!-- Badges -->  
-<p></p><br>
-<h3></h3>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/jorgetsiqueira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
