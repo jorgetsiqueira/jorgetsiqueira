@@ -26,7 +26,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 <h3></h3>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/jorgetsiqueira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/jorgetsiqueira"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <br />
-
 
