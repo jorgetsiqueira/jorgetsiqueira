@@ -6,6 +6,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 <br />
 
 ## Habilidades
+<br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
@@ -20,6 +21,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br />
 
 ## Redes Sociais
+<br />
 
 <!-- Badges -->  
 <p></p><br>
