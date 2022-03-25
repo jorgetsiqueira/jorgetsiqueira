@@ -37,6 +37,7 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
   <a href="https://wa.me/5583982146084"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <br />
 
+  <br />
 <div align="center">
 
   ![Snake animation](https://github.com/jorgetsiqueira/jorgetsiqueira/blob/output/github-contribution-grid-snake.svg)
