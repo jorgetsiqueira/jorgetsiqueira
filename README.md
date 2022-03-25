@@ -5,7 +5,8 @@ Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusias
 <br />
 
 ### Habilidades
-<br>
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br />
