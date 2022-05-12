@@ -1,7 +1,16 @@
 # Jorge Targino Siqueira
 
 <br />
-Analista de Sistemas, Pós-graduando em Arquitetura de Cloud Computing, Entusiasta de Tecnologias e Amante do Linux 🐧💻<br />
+Olá 👋 Seja bem vindo(a)!
+
+Sou apaixonado por novas Tecnologias 💻 
+Entusiasta da cultura DevOps 👨🏻‍💻 
+Amante do Linux 🐧
+
+Graduado em Análise de Sistemas, cursando Especialização em Arquitetura de Cloud Computing. 
+
+Sempre com boa comunicação, colaboração e integração, trabalho com a missão de padronizar e implementar mais agilidade nos processos visando garantir entrega rápida e qualidade dos serviços.
+
 <br />
 
 ### Habilidades
