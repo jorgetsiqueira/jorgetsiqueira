@@ -22,12 +22,3 @@ Graduado em Análise de Sistemas, cursando Especialização em Arquitetura de Cl
 
 <br />
 
-
-<br />
-
-  <br />
-<div align="center">
-
-  ![Snake animation](https://github.com/jorgetsiqueira/jorgetsiqueira/blob/output/github-contribution-grid-snake.svg)
-
-</div>
