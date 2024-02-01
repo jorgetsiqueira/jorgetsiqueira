@@ -2,9 +2,8 @@
 
 <br />
 Cloud Engineering and Infrastructure | Site Reliability Engineering
+
 <br />
-
-
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br />
