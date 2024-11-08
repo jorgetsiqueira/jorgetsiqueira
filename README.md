@@ -1,7 +1,7 @@
 # Jorge Siqueira
 
 <br />
-Cloud Engineering and Infrastructure | Site Reliability Engineering
+Site Reliability Engineering
 <br />
 
 <br />
