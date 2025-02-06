@@ -1,7 +1,7 @@
 # Jorge Siqueira
 
 <br />
-Site Reliability Engineering
+Site Reliability Engineering | DevOps
 <br />
 
 <br />
